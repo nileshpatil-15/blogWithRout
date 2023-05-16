@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.bloglist-container{
+width: 100%;
+padding-left: 0px;
+/* display: flex; */
+
+flex-direction: column;
+
+list-style: none;
+text-decoration: none;
+}
+.loader{
+    text-align: center;
+}

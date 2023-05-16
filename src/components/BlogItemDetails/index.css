@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+
+
+*{
+    font-family: roboto;
+}
+.title{
+    font-size: 35px;
+}
+.avatar-n-name-cntr{
+    display: flex;
+}
+.author{
+    margin-left: 18px;
+}
+.avatar{
+width: 45px;
+border-radius: 50%;
+}
+
+.content{
+    font-size: 25px;
+    font-weight: 500;
+}
+.img{
+    width: 100%;
+}
+.bloginfo-cntr{
+    width: 80%;
+}
+.loader{
+    text-align: center;
+}

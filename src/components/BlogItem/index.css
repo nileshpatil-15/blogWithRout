@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+*{
+    font-family: roboto;
+    text-decoration: none;
+}
+.blogItem{
+    border: 1px solid black;
+    /* padding: 13px; */
+    list-style: none;
+    margin: 10px;
+    border-radius: 8px;
+   min-width: 100px;
+    text-decoration: none;
+    padding: 20px;
+
+}
+.image{
+    max-width: 400px;
+}
+.topic{
+    color: #d3d3d3;
+    font-size: 25px;
+}
+.title{
+
+    font-size: 35px;
+}
+.author{
+font-size: 20px;
+color: black;
+font-weight: 600;
+
+}
